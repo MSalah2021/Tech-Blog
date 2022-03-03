@@ -5,7 +5,7 @@
 
 ## Authors
 
-- [@Ceebcheng Yang](https://github.com/Ceebcheng)
+- [@Mawel Salah](https://github.com/MSalah2021)
 
 
 ## Info
@@ -17,11 +17,11 @@ Down below are some screenshots
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Ceebcheng/Tech-Blog/blob/main/screenshoot/Capture1.JPG)
-![App Screenshot](https://github.com/Ceebcheng/Tech-Blog/blob/main/screenshoot/Capture2.JPG)
-![App Screenshot](https://github.com/Ceebcheng/Tech-Blog/blob/main/screenshoot/Capture3.JPG)
+![App Screenshot](https://github.com/MSalah20221/Tech-Blog1/blob/main/screenshoot/Capture1.JPG)
+![App Screenshot](https://github.com/MSalah20221/Tech-Blog1/blob/main/screenshoot/Capture2.JPG)
+![App Screenshot](https://github.com/MSalah20221/Tech-Blog1/blob/main/screenshoot/Capture3.JPG)
 
 
 ## 🔗 Demo
 
-https://user-images.githubusercontent.com/95650946/152898844-0e07dcde-ed03-42fd-bd1b-e44ebdcab4f7.mp4
+Video Is not running for me
